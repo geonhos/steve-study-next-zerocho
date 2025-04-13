@@ -1,5 +1,7 @@
-export default function Home({children}) {
+export default function Page() {
   return (
-    <div>{children}</div>
+      <main>
+        회원가입모달
+      </main>
   );
 }
