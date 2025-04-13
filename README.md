@@ -1,1 +1,5 @@
-# steve-study-next-zerocho
+# Next Study
+
+```shell
+npx create-next-app@latest 
+```
